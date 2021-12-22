@@ -1,0 +1,33 @@
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+D:\C#\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+D:\C#\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+D:\C#\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+D:\C#\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+D:\C#\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.SuggestedBindingRedirects.cache
+D:\C#\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+D:\C#\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+D:\C#\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+D:\C#\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+D:\C#\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+D:\C#\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+D:\C#\Lab-05\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+D:\C#\Lab-05\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+D:\C#\Lab-05\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+D:\C#\Lab-05\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+D:\C#\Lab-05\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.SuggestedBindingRedirects.cache
+D:\C#\Lab-05\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+D:\C#\Lab-05\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+D:\C#\Lab-05\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+D:\C#\Lab-05\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+D:\C#\Lab-05\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+D:\C#\Lab-05\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
