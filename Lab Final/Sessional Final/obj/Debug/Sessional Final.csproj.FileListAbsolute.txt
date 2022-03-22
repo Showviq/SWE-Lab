@@ -1,0 +1,21 @@
+C:\Users\Icon\source\repos\Sessional Final\Sessional Final\bin\Debug\Sessional Final.exe.config
+C:\Users\Icon\source\repos\Sessional Final\Sessional Final\bin\Debug\Sessional Final.exe
+C:\Users\Icon\source\repos\Sessional Final\Sessional Final\bin\Debug\Sessional Final.pdb
+C:\Users\Icon\source\repos\Sessional Final\Sessional Final\obj\Debug\Sessional Final.csprojAssemblyReference.cache
+C:\Users\Icon\source\repos\Sessional Final\Sessional Final\obj\Debug\Sessional_Final.Form1.resources
+C:\Users\Icon\source\repos\Sessional Final\Sessional Final\obj\Debug\Sessional_Final.Properties.Resources.resources
+C:\Users\Icon\source\repos\Sessional Final\Sessional Final\obj\Debug\Sessional Final.csproj.GenerateResource.cache
+C:\Users\Icon\source\repos\Sessional Final\Sessional Final\obj\Debug\Sessional Final.csproj.CoreCompileInputs.cache
+C:\Users\Icon\source\repos\Sessional Final\Sessional Final\obj\Debug\Sessional Final.exe
+C:\Users\Icon\source\repos\Sessional Final\Sessional Final\obj\Debug\Sessional Final.pdb
+E:\Sessional Final\Sessional Final\bin\Debug\Sessional Final.exe.config
+E:\Sessional Final\Sessional Final\bin\Debug\Sessional Final.exe
+E:\Sessional Final\Sessional Final\bin\Debug\Sessional Final.pdb
+E:\Sessional Final\Sessional Final\obj\Debug\Sessional Final.csproj.AssemblyReference.cache
+E:\Sessional Final\Sessional Final\obj\Debug\Sessional Final.csproj.SuggestedBindingRedirects.cache
+E:\Sessional Final\Sessional Final\obj\Debug\Sessional_Final.Form1.resources
+E:\Sessional Final\Sessional Final\obj\Debug\Sessional_Final.Properties.Resources.resources
+E:\Sessional Final\Sessional Final\obj\Debug\Sessional Final.csproj.GenerateResource.cache
+E:\Sessional Final\Sessional Final\obj\Debug\Sessional Final.csproj.CoreCompileInputs.cache
+E:\Sessional Final\Sessional Final\obj\Debug\Sessional Final.exe
+E:\Sessional Final\Sessional Final\obj\Debug\Sessional Final.pdb
